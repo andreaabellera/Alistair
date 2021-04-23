@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Elena scene.unity
+    guid: 7b9113f8b431542d0a6db5f7635acc65
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 8a784eecae2d340f4863b46e4ec138f3
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 569430103bd564d0e854702008150edc
   m_configObjects: {}
