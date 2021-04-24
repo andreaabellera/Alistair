@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5547238581323995903}
   - component: {fileID: 3477206766280642176}
   - component: {fileID: 1177671265201709649}
+  - component: {fileID: 2221937871118438416}
   m_Layer: 0
   m_Name: pine_tree2_pPlane15
   m_TagString: Untagged
@@ -81,6 +82,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2221937871118438416
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327081573986507001}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8638184626535404199, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &890747271239718121
 GameObject:
   m_ObjectHideFlags: 0
@@ -92,6 +107,7 @@ GameObject:
   - component: {fileID: 5904992268453660075}
   - component: {fileID: 5377566120335091012}
   - component: {fileID: 5940357252710552074}
+  - component: {fileID: 2650622801107964198}
   m_Layer: 0
   m_Name: pine_tree2_pPlane16
   m_TagString: Untagged
@@ -162,6 +178,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2650622801107964198
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 890747271239718121}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6629054360444666191, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1148103475516535023
 GameObject:
   m_ObjectHideFlags: 0
@@ -173,6 +203,7 @@ GameObject:
   - component: {fileID: 5658426680741279836}
   - component: {fileID: 6713486215064158694}
   - component: {fileID: 7329407361847943707}
+  - component: {fileID: 5502425568380670853}
   m_Layer: 0
   m_Name: pine_tree2_pPlane10
   m_TagString: Untagged
@@ -243,6 +274,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5502425568380670853
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1148103475516535023}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5730360907286928544, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1338045262322762848
 GameObject:
   m_ObjectHideFlags: 0
@@ -254,6 +299,7 @@ GameObject:
   - component: {fileID: 6344150568395512455}
   - component: {fileID: 6433570619551464105}
   - component: {fileID: 6403823274802172008}
+  - component: {fileID: 4084686044539941316}
   m_Layer: 0
   m_Name: pine_tree2_pPlane37
   m_TagString: Untagged
@@ -324,6 +370,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4084686044539941316
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1338045262322762848}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4929251532298904921, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1465934892554064207
 GameObject:
   m_ObjectHideFlags: 0
@@ -335,6 +395,7 @@ GameObject:
   - component: {fileID: 1151546581929632742}
   - component: {fileID: 745112681937786725}
   - component: {fileID: 273118078536612094}
+  - component: {fileID: 6432319493653339899}
   m_Layer: 0
   m_Name: pine_tree2_pPlane25
   m_TagString: Untagged
@@ -405,6 +466,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6432319493653339899
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465934892554064207}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8592929727590560074, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1471058173384140530
 GameObject:
   m_ObjectHideFlags: 0
@@ -416,6 +491,7 @@ GameObject:
   - component: {fileID: 363002686839308578}
   - component: {fileID: 8989896628298016390}
   - component: {fileID: 1280923535114083040}
+  - component: {fileID: 3771301879584212113}
   m_Layer: 0
   m_Name: pine_tree2_pPlane31
   m_TagString: Untagged
@@ -486,6 +562,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3771301879584212113
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1471058173384140530}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1327438924003441775, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1519471373143095906
 GameObject:
   m_ObjectHideFlags: 0
@@ -497,6 +587,7 @@ GameObject:
   - component: {fileID: 2673585248345650525}
   - component: {fileID: 1771720636965290322}
   - component: {fileID: 3583674216121055425}
+  - component: {fileID: 8594665194132707699}
   m_Layer: 0
   m_Name: pine_tree2_pPlane13
   m_TagString: Untagged
@@ -567,6 +658,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8594665194132707699
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519471373143095906}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 903206930017663105, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1778651659381951270
 GameObject:
   m_ObjectHideFlags: 0
@@ -578,6 +683,7 @@ GameObject:
   - component: {fileID: 4111368210031280308}
   - component: {fileID: 4873584856411621170}
   - component: {fileID: 5223056673330533828}
+  - component: {fileID: 2228617339782469784}
   m_Layer: 0
   m_Name: pine_tree2_pPlane42
   m_TagString: Untagged
@@ -648,6 +754,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2228617339782469784
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1778651659381951270}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7255363187765020274, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1947264727517248872
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,6 +779,7 @@ GameObject:
   - component: {fileID: 2943105462333813948}
   - component: {fileID: 671365752761412775}
   - component: {fileID: 4580919590437470082}
+  - component: {fileID: 8522757342988364406}
   m_Layer: 0
   m_Name: pine_tree2_pPlane23
   m_TagString: Untagged
@@ -729,6 +850,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8522757342988364406
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1947264727517248872}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3440770071438307103, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &2164687904532345043
 GameObject:
   m_ObjectHideFlags: 0
@@ -740,6 +875,7 @@ GameObject:
   - component: {fileID: 2944603072185197060}
   - component: {fileID: 5836294159383312121}
   - component: {fileID: 7782974137830272376}
+  - component: {fileID: 7332929716076363659}
   m_Layer: 0
   m_Name: pine_tree2_pPlane40
   m_TagString: Untagged
@@ -810,6 +946,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7332929716076363659
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2164687904532345043}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3538940326256330421, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &2171039976223054811
 GameObject:
   m_ObjectHideFlags: 0
@@ -821,6 +971,7 @@ GameObject:
   - component: {fileID: 8211516074981972733}
   - component: {fileID: 732010850866426144}
   - component: {fileID: 5323402699619753855}
+  - component: {fileID: 3301220152229837710}
   m_Layer: 0
   m_Name: pine_tree2_pPlane1
   m_TagString: Untagged
@@ -891,6 +1042,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3301220152229837710
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2171039976223054811}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4607575598775376262, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &2250783785216742705
 GameObject:
   m_ObjectHideFlags: 0
@@ -902,6 +1067,7 @@ GameObject:
   - component: {fileID: 7901494384716740055}
   - component: {fileID: 1700056392199531414}
   - component: {fileID: 6567004941752766669}
+  - component: {fileID: 439038838110345168}
   m_Layer: 0
   m_Name: pine_tree2_pPlane19
   m_TagString: Untagged
@@ -972,6 +1138,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &439038838110345168
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2250783785216742705}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7903020462224603159, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &2517962214281499355
 GameObject:
   m_ObjectHideFlags: 0
@@ -983,6 +1163,7 @@ GameObject:
   - component: {fileID: 2169391524330109458}
   - component: {fileID: 6693931065376183195}
   - component: {fileID: 4737561061030260832}
+  - component: {fileID: 2715158219940109451}
   m_Layer: 0
   m_Name: pine_tree2_pPlane27
   m_TagString: Untagged
@@ -1053,6 +1234,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2715158219940109451
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2517962214281499355}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7036401296695210555, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &2766374967563334002
 GameObject:
   m_ObjectHideFlags: 0
@@ -1064,6 +1259,7 @@ GameObject:
   - component: {fileID: 7634285497858909393}
   - component: {fileID: 5346811983729371070}
   - component: {fileID: 5765996248146080948}
+  - component: {fileID: 5239159601283632654}
   m_Layer: 0
   m_Name: pine_tree2_pPlane12
   m_TagString: Untagged
@@ -1134,6 +1330,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5239159601283632654
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2766374967563334002}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -114359524766414523, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &2871496258643378647
 GameObject:
   m_ObjectHideFlags: 0
@@ -1218,6 +1428,7 @@ GameObject:
   - component: {fileID: 3036391540463128853}
   - component: {fileID: 8195524661568871354}
   - component: {fileID: 4117987602480639776}
+  - component: {fileID: 7115480883006545314}
   m_Layer: 0
   m_Name: pine_tree2_pPlane41
   m_TagString: Untagged
@@ -1288,6 +1499,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7115480883006545314
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2901197833001846401}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1264040873569500784, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3151547707587972758
 GameObject:
   m_ObjectHideFlags: 0
@@ -1299,6 +1524,7 @@ GameObject:
   - component: {fileID: 1209087673842954682}
   - component: {fileID: 1880987311945378005}
   - component: {fileID: 2826231220816659630}
+  - component: {fileID: 9180722633127250923}
   m_Layer: 0
   m_Name: pine_tree2_pPlane9
   m_TagString: Untagged
@@ -1369,6 +1595,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &9180722633127250923
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3151547707587972758}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7225774474665647416, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3153616148801726132
 GameObject:
   m_ObjectHideFlags: 0
@@ -1380,6 +1620,7 @@ GameObject:
   - component: {fileID: 49754134625430025}
   - component: {fileID: 336305044037450496}
   - component: {fileID: 6352525069689388554}
+  - component: {fileID: 4220787650391062548}
   m_Layer: 0
   m_Name: pine_tree2_pPlane18
   m_TagString: Untagged
@@ -1450,6 +1691,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4220787650391062548
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3153616148801726132}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4215150639538682023, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3205337141316190205
 GameObject:
   m_ObjectHideFlags: 0
@@ -1461,6 +1716,7 @@ GameObject:
   - component: {fileID: 7072225253797868928}
   - component: {fileID: 1839992222698510454}
   - component: {fileID: 5277419701659210451}
+  - component: {fileID: 205822099373594296}
   m_Layer: 0
   m_Name: pine_tree2_pPlane11
   m_TagString: Untagged
@@ -1531,6 +1787,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &205822099373594296
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3205337141316190205}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1530509824050116884, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3242710731337079234
 GameObject:
   m_ObjectHideFlags: 0
@@ -1542,6 +1812,7 @@ GameObject:
   - component: {fileID: 2149414891757811951}
   - component: {fileID: 1470269340326991595}
   - component: {fileID: 7293213685078986941}
+  - component: {fileID: 6958276698591694834}
   m_Layer: 0
   m_Name: pine_tree2_pPlane5
   m_TagString: Untagged
@@ -1612,6 +1883,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6958276698591694834
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3242710731337079234}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3213998303486268859, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3854913911991062093
 GameObject:
   m_ObjectHideFlags: 0
@@ -1623,6 +1908,7 @@ GameObject:
   - component: {fileID: 833158321010783136}
   - component: {fileID: 7713867401692352642}
   - component: {fileID: 5108639461207358666}
+  - component: {fileID: 4509621116267558865}
   m_Layer: 0
   m_Name: pine_tree2_pPlane6
   m_TagString: Untagged
@@ -1693,6 +1979,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4509621116267558865
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3854913911991062093}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5337418864503267460, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3866727943238685175
 GameObject:
   m_ObjectHideFlags: 0
@@ -1704,6 +2004,7 @@ GameObject:
   - component: {fileID: 1605736573393847926}
   - component: {fileID: 1561920460955089673}
   - component: {fileID: 1294921483703571845}
+  - component: {fileID: 5488792040465998721}
   m_Layer: 0
   m_Name: pine_tree2_pPlane2
   m_TagString: Untagged
@@ -1774,6 +2075,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5488792040465998721
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3866727943238685175}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2295725684568262582, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4029924581532394473
 GameObject:
   m_ObjectHideFlags: 0
@@ -1785,6 +2100,7 @@ GameObject:
   - component: {fileID: 6933867217173586190}
   - component: {fileID: 8192129844437822020}
   - component: {fileID: 2541766021571128333}
+  - component: {fileID: 8266357568571517462}
   m_Layer: 0
   m_Name: pine_tree2_pPlane26
   m_TagString: Untagged
@@ -1855,6 +2171,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8266357568571517462
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4029924581532394473}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4260488844652487624, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4255301833857124016
 GameObject:
   m_ObjectHideFlags: 0
@@ -1866,6 +2196,7 @@ GameObject:
   - component: {fileID: 1311376597970421835}
   - component: {fileID: 3846747206838750958}
   - component: {fileID: 2413456672780000698}
+  - component: {fileID: 6444279217769893325}
   m_Layer: 0
   m_Name: pine_tree2_pPlane8
   m_TagString: Untagged
@@ -1936,6 +2267,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6444279217769893325
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4255301833857124016}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3920332796213054220, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4615428298027870148
 GameObject:
   m_ObjectHideFlags: 0
@@ -1947,6 +2292,7 @@ GameObject:
   - component: {fileID: 7399076528799108387}
   - component: {fileID: 1115744771089006425}
   - component: {fileID: 2637786510293034046}
+  - component: {fileID: 5335341390742106743}
   m_Layer: 0
   m_Name: pine_tree2_pPlane28
   m_TagString: Untagged
@@ -2017,6 +2363,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5335341390742106743
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4615428298027870148}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6878044364079228243, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4911950986157477011
 GameObject:
   m_ObjectHideFlags: 0
@@ -2028,6 +2388,7 @@ GameObject:
   - component: {fileID: 2171766879365221649}
   - component: {fileID: 8193747488162921500}
   - component: {fileID: 1783484174663982628}
+  - component: {fileID: 8429729804002451994}
   m_Layer: 0
   m_Name: pine_tree2_pPlane24
   m_TagString: Untagged
@@ -2098,6 +2459,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8429729804002451994
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4911950986157477011}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5922680647452800224, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4964671662775250549
 GameObject:
   m_ObjectHideFlags: 0
@@ -2109,6 +2484,7 @@ GameObject:
   - component: {fileID: 8170431357224889807}
   - component: {fileID: 2448897581728034860}
   - component: {fileID: 6493550067732808632}
+  - component: {fileID: 4458213090917405953}
   m_Layer: 0
   m_Name: pine_tree2_pPlane39
   m_TagString: Untagged
@@ -2179,6 +2555,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4458213090917405953
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4964671662775250549}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 417521026954515600, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &5185615726520747804
 GameObject:
   m_ObjectHideFlags: 0
@@ -2190,6 +2580,7 @@ GameObject:
   - component: {fileID: 8076217072041386192}
   - component: {fileID: 6115950494136717109}
   - component: {fileID: 5280006219771465270}
+  - component: {fileID: 3892270601082784018}
   m_Layer: 0
   m_Name: pine_tree2_pPlane43
   m_TagString: Untagged
@@ -2260,6 +2651,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3892270601082784018
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5185615726520747804}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4435310048097397322, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &5329689311286416717
 GameObject:
   m_ObjectHideFlags: 0
@@ -2271,6 +2676,7 @@ GameObject:
   - component: {fileID: 4439887060943231872}
   - component: {fileID: 6428769892232684657}
   - component: {fileID: 4153021643577962561}
+  - component: {fileID: 4772404830037900383}
   m_Layer: 0
   m_Name: pine_tree2_pPlane14
   m_TagString: Untagged
@@ -2341,6 +2747,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4772404830037900383
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5329689311286416717}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6807990689532080464, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &5558613931756420477
 GameObject:
   m_ObjectHideFlags: 0
@@ -2352,6 +2772,7 @@ GameObject:
   - component: {fileID: 4244288359731990311}
   - component: {fileID: 5377721789971469893}
   - component: {fileID: 5703539592241281662}
+  - component: {fileID: 7978329582531180685}
   m_Layer: 0
   m_Name: pine_tree2_pPlane22
   m_TagString: Untagged
@@ -2422,6 +2843,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7978329582531180685
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5558613931756420477}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3573746150213882862, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &5690633690359555391
 GameObject:
   m_ObjectHideFlags: 0
@@ -2433,6 +2868,7 @@ GameObject:
   - component: {fileID: 5451658017231373082}
   - component: {fileID: 2777391268774098647}
   - component: {fileID: 4854723670762774103}
+  - component: {fileID: 4366911093574025675}
   m_Layer: 0
   m_Name: pine_tree2_pPlane32
   m_TagString: Untagged
@@ -2503,6 +2939,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4366911093574025675
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5690633690359555391}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2944171344325569916, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &5990073250527217256
 GameObject:
   m_ObjectHideFlags: 0
@@ -2514,6 +2964,7 @@ GameObject:
   - component: {fileID: 774022791012876381}
   - component: {fileID: 8720158414770662766}
   - component: {fileID: 2079734070276074288}
+  - component: {fileID: 5338412152972833564}
   m_Layer: 0
   m_Name: pine_tree2_pPlane29
   m_TagString: Untagged
@@ -2584,6 +3035,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5338412152972833564
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5990073250527217256}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6191931531400932787, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &6833117289527093359
 GameObject:
   m_ObjectHideFlags: 0
@@ -2595,6 +3060,7 @@ GameObject:
   - component: {fileID: 6933914700797656220}
   - component: {fileID: 3283958398874658766}
   - component: {fileID: 1129130153444816721}
+  - component: {fileID: 7212800800412641811}
   m_Layer: 0
   m_Name: pine_tree2_pPlane20
   m_TagString: Untagged
@@ -2665,6 +3131,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7212800800412641811
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6833117289527093359}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8823446075348700827, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &6871492288089196070
 GameObject:
   m_ObjectHideFlags: 0
@@ -2676,6 +3156,7 @@ GameObject:
   - component: {fileID: 1789250767725291107}
   - component: {fileID: 6067044058575901051}
   - component: {fileID: 105510128107833812}
+  - component: {fileID: 5776891630983151062}
   m_Layer: 0
   m_Name: pine_tree2_pPlane21
   m_TagString: Untagged
@@ -2746,6 +3227,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5776891630983151062
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6871492288089196070}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8182317672376844851, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7190177000596090715
 GameObject:
   m_ObjectHideFlags: 0
@@ -2757,6 +3252,7 @@ GameObject:
   - component: {fileID: 6452592616551355893}
   - component: {fileID: 264442537628587599}
   - component: {fileID: 493352031106921885}
+  - component: {fileID: 7833714704500617106}
   m_Layer: 0
   m_Name: pine_tree2_pPlane17
   m_TagString: Untagged
@@ -2827,6 +3323,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7833714704500617106
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7190177000596090715}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 944959432698286752, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7519404009984686620
 GameObject:
   m_ObjectHideFlags: 0
@@ -2838,6 +3348,7 @@ GameObject:
   - component: {fileID: 6413766639521494894}
   - component: {fileID: 6259284925829835431}
   - component: {fileID: 6013478779436003473}
+  - component: {fileID: 6349591371113396836}
   m_Layer: 0
   m_Name: pine_tree2_pPlane34
   m_TagString: Untagged
@@ -2908,6 +3419,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6349591371113396836
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7519404009984686620}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4534178173997299995, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7707652287471592347
 GameObject:
   m_ObjectHideFlags: 0
@@ -2919,6 +3444,7 @@ GameObject:
   - component: {fileID: 8501984420419309084}
   - component: {fileID: 2485297208626910987}
   - component: {fileID: 6662021980758719309}
+  - component: {fileID: 4184585757136322396}
   m_Layer: 0
   m_Name: pine_tree2_pine
   m_TagString: Untagged
@@ -2989,6 +3515,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4184585757136322396
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7707652287471592347}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5259472044073842652, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7801139748970539686
 GameObject:
   m_ObjectHideFlags: 0
@@ -3000,6 +3540,7 @@ GameObject:
   - component: {fileID: 7815823930075405509}
   - component: {fileID: 2785679720511824411}
   - component: {fileID: 13033947749284090}
+  - component: {fileID: 9016159054048680830}
   m_Layer: 0
   m_Name: pine_tree2_pPlane36
   m_TagString: Untagged
@@ -3070,6 +3611,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &9016159054048680830
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7801139748970539686}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4688871661894168529, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7913394494677915410
 GameObject:
   m_ObjectHideFlags: 0
@@ -3081,6 +3636,7 @@ GameObject:
   - component: {fileID: 6634283040559063853}
   - component: {fileID: 9112750048115364536}
   - component: {fileID: 8772213146406572016}
+  - component: {fileID: 2147792850599150171}
   m_Layer: 0
   m_Name: pine_tree2_pPlane35
   m_TagString: Untagged
@@ -3151,6 +3707,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2147792850599150171
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7913394494677915410}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8673606154615433322, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7928269573446614296
 GameObject:
   m_ObjectHideFlags: 0
@@ -3162,6 +3732,7 @@ GameObject:
   - component: {fileID: 2445350553123574521}
   - component: {fileID: 7357524524204324404}
   - component: {fileID: 8599024665519907030}
+  - component: {fileID: 3999277647483619801}
   m_Layer: 0
   m_Name: pine_tree2_pPlane30
   m_TagString: Untagged
@@ -3232,6 +3803,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3999277647483619801
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7928269573446614296}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 120378730534564413, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &8074261933309154929
 GameObject:
   m_ObjectHideFlags: 0
@@ -3243,6 +3828,7 @@ GameObject:
   - component: {fileID: 2022900869992615483}
   - component: {fileID: 576277291687869940}
   - component: {fileID: 3889286809775413741}
+  - component: {fileID: 4959148047180921256}
   m_Layer: 0
   m_Name: pine_tree2_pPlane7
   m_TagString: Untagged
@@ -3313,6 +3899,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4959148047180921256
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8074261933309154929}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4241381474673988831, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &8471135644466468215
 GameObject:
   m_ObjectHideFlags: 0
@@ -3324,6 +3924,7 @@ GameObject:
   - component: {fileID: 5105237491597940560}
   - component: {fileID: 2707330086635904758}
   - component: {fileID: 3093597572893745536}
+  - component: {fileID: 493598437028794167}
   m_Layer: 0
   m_Name: pine_tree2_pPlane3
   m_TagString: Untagged
@@ -3394,6 +3995,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &493598437028794167
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8471135644466468215}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 128267191642930482, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &8516751992087641293
 GameObject:
   m_ObjectHideFlags: 0
@@ -3405,6 +4020,7 @@ GameObject:
   - component: {fileID: 509186958862162765}
   - component: {fileID: 2688670342087052957}
   - component: {fileID: 5934799052624931518}
+  - component: {fileID: 6662827240544701257}
   m_Layer: 0
   m_Name: pine_tree2_pPlane38
   m_TagString: Untagged
@@ -3475,6 +4091,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6662827240544701257
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8516751992087641293}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1167345711923873958, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &8843950755525672020
 GameObject:
   m_ObjectHideFlags: 0
@@ -3486,6 +4116,7 @@ GameObject:
   - component: {fileID: 7118971360733781204}
   - component: {fileID: 622347832577347154}
   - component: {fileID: 5809669170871771240}
+  - component: {fileID: 3763076768878013880}
   m_Layer: 0
   m_Name: pine_tree2_pPlane33
   m_TagString: Untagged
@@ -3556,3 +4187,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3763076768878013880
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8843950755525672020}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5404449416225139466, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}

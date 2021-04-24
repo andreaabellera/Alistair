@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 326051620510111558}
   - component: {fileID: 6886390604514236844}
   - component: {fileID: 5830310901577357731}
+  - component: {fileID: 4201527217463586696}
   m_Layer: 0
   m_Name: log4_log
   m_TagString: Untagged
@@ -81,6 +82,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4201527217463586696
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 436412759982142935}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8347188568621902914, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4548939413625147386
 GameObject:
   m_ObjectHideFlags: 0
@@ -92,6 +107,7 @@ GameObject:
   - component: {fileID: 500610999378169969}
   - component: {fileID: 225771401218547493}
   - component: {fileID: 4056317772045329829}
+  - component: {fileID: 5884605017517248856}
   m_Layer: 0
   m_Name: log_pine
   m_TagString: Untagged
@@ -162,6 +178,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5884605017517248856
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4548939413625147386}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6934513549057073281, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &8947492452007085823
 GameObject:
   m_ObjectHideFlags: 0

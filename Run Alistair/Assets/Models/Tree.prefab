@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 502897754043640193}
   - component: {fileID: 77137370507852552}
   - component: {fileID: 8293657720522490562}
+  - component: {fileID: 2676817000424979189}
   m_Layer: 0
   m_Name: group4_pPlatonic29
   m_TagString: Untagged
@@ -81,6 +82,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2676817000424979189
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1205467388337320878}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 176666107260984833, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1633941299214222412
 GameObject:
   m_ObjectHideFlags: 0
@@ -92,6 +107,7 @@ GameObject:
   - component: {fileID: 7156945130767080227}
   - component: {fileID: 1544681972916749716}
   - component: {fileID: 657294743840878677}
+  - component: {fileID: 427153028374475237}
   m_Layer: 0
   m_Name: group4_pPlatonic25
   m_TagString: Untagged
@@ -162,6 +178,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &427153028374475237
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633941299214222412}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5093532268422355112, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &1717063678387251099
 GameObject:
   m_ObjectHideFlags: 0
@@ -173,6 +203,7 @@ GameObject:
   - component: {fileID: 8548579574228174063}
   - component: {fileID: 3352741952189705470}
   - component: {fileID: 6354192421913896705}
+  - component: {fileID: 7033160134476511814}
   m_Layer: 0
   m_Name: group4_pPlatonic3
   m_TagString: Untagged
@@ -243,6 +274,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7033160134476511814
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1717063678387251099}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4620503211611437141, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &2300040442907090535
 GameObject:
   m_ObjectHideFlags: 0
@@ -254,6 +299,7 @@ GameObject:
   - component: {fileID: 1830381527550269667}
   - component: {fileID: 8478382521619995215}
   - component: {fileID: 599260610506904752}
+  - component: {fileID: 2560857458785438366}
   m_Layer: 0
   m_Name: group4_pPlatonic6
   m_TagString: Untagged
@@ -324,6 +370,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2560857458785438366
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2300040442907090535}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6369227254696082023, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3020617629267545506
 GameObject:
   m_ObjectHideFlags: 0
@@ -335,6 +395,7 @@ GameObject:
   - component: {fileID: 7580133020477120270}
   - component: {fileID: 5889334405074842296}
   - component: {fileID: 4640127975197211618}
+  - component: {fileID: 3929723784451324527}
   m_Layer: 0
   m_Name: group4_pPlatonic28
   m_TagString: Untagged
@@ -405,6 +466,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3929723784451324527
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3020617629267545506}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -2228301762617284454, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3195673334651319373
 GameObject:
   m_ObjectHideFlags: 0
@@ -416,6 +491,7 @@ GameObject:
   - component: {fileID: 1876743786126380235}
   - component: {fileID: 6069950166075669330}
   - component: {fileID: 6578219520417251899}
+  - component: {fileID: 7235583787919525687}
   m_Layer: 0
   m_Name: group4_pPlatonic26
   m_TagString: Untagged
@@ -486,6 +562,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7235583787919525687
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3195673334651319373}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7283715247023290431, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &3621898248272543319
 GameObject:
   m_ObjectHideFlags: 0
@@ -497,6 +587,7 @@ GameObject:
   - component: {fileID: 3463213638021108203}
   - component: {fileID: 6768390650342370499}
   - component: {fileID: 5767260706486773997}
+  - component: {fileID: 3510943882021092651}
   m_Layer: 0
   m_Name: group4_tree4
   m_TagString: Untagged
@@ -567,6 +658,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3510943882021092651
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3621898248272543319}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4309974856359469040, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4273995710464998823
 GameObject:
   m_ObjectHideFlags: 0
@@ -578,6 +683,7 @@ GameObject:
   - component: {fileID: 3653722477541502539}
   - component: {fileID: 1446306807083722048}
   - component: {fileID: 5142692082514442085}
+  - component: {fileID: 7236032466239355201}
   m_Layer: 0
   m_Name: group4_pPlatonic27
   m_TagString: Untagged
@@ -648,6 +754,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7236032466239355201
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4273995710464998823}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6762996415269461632, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &4722040686282453694
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,6 +779,7 @@ GameObject:
   - component: {fileID: 7821831797233911954}
   - component: {fileID: 7459515002134958163}
   - component: {fileID: 4837679350531185746}
+  - component: {fileID: 6345535025129261968}
   m_Layer: 0
   m_Name: group4_pPlatonic30
   m_TagString: Untagged
@@ -729,6 +850,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6345535025129261968
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4722040686282453694}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5320292595524338247, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &5622166010015650508
 GameObject:
   m_ObjectHideFlags: 0
@@ -740,6 +875,7 @@ GameObject:
   - component: {fileID: 8666331214579653754}
   - component: {fileID: 3428281614403113146}
   - component: {fileID: 4028986185288276637}
+  - component: {fileID: 2832325900037930618}
   m_Layer: 0
   m_Name: group4_pPlatonic1
   m_TagString: Untagged
@@ -810,6 +946,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2832325900037930618
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5622166010015650508}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4408890500333273492, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &6096957803405015876
 GameObject:
   m_ObjectHideFlags: 0
@@ -821,6 +971,7 @@ GameObject:
   - component: {fileID: 2480343392409258584}
   - component: {fileID: 4094272949110624651}
   - component: {fileID: 8373793778018827655}
+  - component: {fileID: 3961907099059790352}
   m_Layer: 0
   m_Name: group4_pPlatonic5
   m_TagString: Untagged
@@ -891,6 +1042,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &3961907099059790352
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6096957803405015876}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4309636662844225360, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7679484930695849387
 GameObject:
   m_ObjectHideFlags: 0
@@ -902,6 +1067,7 @@ GameObject:
   - component: {fileID: 8473059696225942394}
   - component: {fileID: 4057388383387237795}
   - component: {fileID: 2058581937831171998}
+  - component: {fileID: 7973270557833147792}
   m_Layer: 0
   m_Name: group4_pPlatonic4
   m_TagString: Untagged
@@ -972,6 +1138,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &7973270557833147792
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7679484930695849387}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7029538989817167158, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
 --- !u!1 &7718628264891281305
 GameObject:
   m_ObjectHideFlags: 0
@@ -1026,6 +1206,7 @@ GameObject:
   - component: {fileID: 7529935695401639870}
   - component: {fileID: 3041928206015517499}
   - component: {fileID: 3604366344784277193}
+  - component: {fileID: 1097967141246422887}
   m_Layer: 0
   m_Name: group4_pPlatonic2
   m_TagString: Untagged
@@ -1096,3 +1277,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1097967141246422887
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8768029132807439941}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3765819759759099743, guid: 03e24c0b480dfff42baaa84d1a70e973, type: 3}
