@@ -5,7 +5,7 @@ using UnityEngine;
 public class PrisonBehavior : MonoBehaviour
 {
     public GameObject bunny;
-    public GameObject DeathWall;
+    public GameObject[] DeathWall;
 
   void OnTriggerExit(Collider other){
 
@@ -13,7 +13,10 @@ public class PrisonBehavior : MonoBehaviour
 
             Debug.Log("Player Has Left Prison");
             bunny.SetActive(true);
-            DeathWall.SetActive(true);
+
+            foreach(GameObject DW in DeathWall){
+            DW.SetActive(true);
+            }
         }
     }
 }
