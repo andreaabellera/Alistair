@@ -5,6 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+    void Start(){
+
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
+    }
       public void StartGame(){
 
       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
@@ -15,4 +20,15 @@ public class MainMenu : MonoBehaviour
       Application.Quit();
 
   }
+
+    public void LoadMainMenu(){
+
+        SceneManager.LoadScene(0);
+
+    }
+
+    public void LoadNextLevel() {
+
+         SceneManager.LoadScene("Elena scene");
+    }
 }

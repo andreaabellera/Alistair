@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Elena scene.unity
     guid: 7b9113f8b431542d0a6db5f7635acc65
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Level2.unity
-    guid: 569430103bd564d0e854702008150edc
+    guid: 65caaeef5cd5944b8bdd9db5f1c14e95
   - enabled: 1
     path: Assets/Scenes/EndScene.unity
     guid: 8a784eecae2d340f4863b46e4ec138f3
