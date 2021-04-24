@@ -86,3 +86,4 @@ Received Import Request.
 Start importing Assets/Scenes/Elena scene.unity using Guid(7b9113f8b431542d0a6db5f7635acc65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ec1a5ec88cfbf87adea33b0ae3df22') in 0.001025 seconds
   Import took 0.003327 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
