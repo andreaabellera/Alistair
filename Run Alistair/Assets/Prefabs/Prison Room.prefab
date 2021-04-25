@@ -682,6 +682,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  bunnySFX: {fileID: 8300000, guid: 7b0dd60f111274eacad35ba5cffba8bf, type: 3}
 --- !u!65 &4304331177679377643
 BoxCollider:
   m_ObjectHideFlags: 0
