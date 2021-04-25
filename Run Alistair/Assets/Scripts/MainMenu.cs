@@ -29,6 +29,8 @@ public class MainMenu : MonoBehaviour
 
     public void LoadNextLevel() {
 
-         SceneManager.LoadScene("Elena scene");
+        string levelname = PlayerPrefs.GetString("currentLevel");
+
+         SceneManager.LoadScene(levelname);
     }
 }

@@ -24,6 +24,8 @@ public class LevelManager : MonoBehaviour
     {
         isGameOver = false;
 
+        PlayerPrefs.SetString("currentLevel", SceneManager.GetActiveScene().name);
+
     }
 
     // Update is called once per frame
