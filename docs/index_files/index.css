@@ -1,0 +1,103 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+header{
+    height: auto;
+    padding: 1%;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-title{
+    font-weight: bolder;
+    align-self: center;
+}
+
+.header-button-array{
+    display: flex;
+}
+
+.header-button{
+    background-color: darkorange;
+    padding: 1%;
+    margin-left: 1%;
+}
+
+.hero{
+    background-color: cornflowerblue;
+}
+
+.about{
+    background-color: crimson;
+}
+
+.content{
+    padding: 2% 0 2% 2%;
+}
+
+.feature{
+    padding: 1.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-title{
+    font-size: x-large;
+}
+
+.content-text{
+    font-size: large;
+}
+
+.awards{
+    background-color: crimson;
+}
+
+.award-container{
+    width: 60%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 1%;
+    justify-items: center;
+    align-items: center;
+}
+
+.award-item{
+    height: auto;
+    width: fit-content;
+    background-color: teal;
+    margin: 1%;
+}
+
+.creators{
+    background-color: burlywood;
+}
+
+.soundtracks{
+    background-color: black;
+}
+
+.demo{
+    background-color: green;
+}
+
+.story{
+    background-color: navy;
+}
+
+footer{
+    height: auto;
+    padding: 1%;
+    background-color: black;
+}
