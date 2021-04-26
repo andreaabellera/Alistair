@@ -15,10 +15,10 @@ To play Alistair in your desktop, download the corresponding game build for your
 The game is hosted live and can be played via browser on [itch.io](https://lennieok.itch.io/alistair)
 
 ## Creators
-Head Unity Developer: Elena Kosowski [(@lennieok)](https://github.com/lennieok)
-Unity Level Designer: Andrea Abellera
-Artist: Jacqueline Ferreira [(insta@art.rush_ink)](https://www.instagram.com/art.rush_ink/)
-Composers: Marc Yu, Miles Acquaviva [(insta@link5669)](https://www.instagram.com/link5669/)
+- Head Unity Developer: Elena Kosowski [(@lennieok)](https://github.com/lennieok)
+- Unity Level Designer: Andrea Abellera
+- Artist: Jacqueline Ferreira [(insta@art.rush_ink)](https://www.instagram.com/art.rush_ink/)
+- Composers: Marc Yu, Miles Acquaviva [(insta@link5669)](https://www.instagram.com/link5669/)
 
 ## Additional Credits
 Additional credits for music can be found in the credits section of the game and in Alistair_Music_Presentation.
