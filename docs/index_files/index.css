@@ -1,87 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Kurale&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap");
+
+:root{
+    --headerColor: black;
+    --headerBtnColor: orange;
+    --footerColor: black;
+    --primaryBodyColor: #93181a;
+    --secondaryBodyColor: #1f329c;
+    /* --secondaryBodyColor: #255297; */
+    --tertiaryBodyColor: crimson;
+    --heroPicture: crimson;
+    --storyPicture: crimson;
+}
+
 html, body{
     margin: 0;
     padding: 0;
     display: flex;
     flex-direction: column;
+    background-color: black;
     color: white;
+    font-family: 'Kurale', serif;
+    scroll-behavior: smooth;
 }
 
 header{
     height: auto;
-    padding: 1%;
     position: sticky;
     top: 0;
     z-index: 2;
-    background-color: black;
+    padding: 0.5% 0% 0.5% 0%;
+    background-color: var(--headerColor);
+    opacity: 90%;
+}
+
+header-base{
     display: flex;
     justify-content: space-between;
 }
 
+header:hover{
+    opacity: 100%;
+    transition: 0.2s;
+}
+
 .header-title{
     font-weight: bolder;
+    font-size: 24px;
     align-self: center;
+}
+
+.header-image{
+    background-image: url('res/alistair_title.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .header-button-array{
     display: flex;
+    justify-content: flex-end;
+    width: 100%;
 }
 
 .header-button{
-    background-color: darkorange;
-    padding: 1%;
+    background-color: var(--headerBtnColor);
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    padding: 0.8% 2% 0.8% 2%;
     margin-left: 1%;
+    border-radius: 1.2em;
+    margin: 0% 0.5% 0.5% 0%;
+}
+
+.header-button a{
+    text-decoration: none;
+    color: rgb(49, 36, 20);
+}
+
+.header-button:hover{
+    cursor: pointer;
+    background-color: darkorange;
+    transition: 0.5s
+}
+
+.header-button:hover a{
+    color: beige;
+}
+
+.header-ornament{
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1px 1px;
+}
+
+.orn-filler{
+    background-color: whitesmoke;
 }
 
 .hero{
-    background-color: cornflowerblue;
+    background-image: url('res/web_blue.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    position: fixed;
+    z-index: 0;
+}
+
+.hero .content-text{
+    z-index: 1;
+    margin: 15% 0% 0% 5%;
+    opacity: 50%;
 }
 
 .about{
-    background-color: crimson;
+    background-color: var(--primaryBodyColor);
 }
 
 .content{
-    padding: 2% 0 2% 2%;
+    margin-top: 20vw;
+    padding: 2%;
+    opacity: 97%;
+    z-index: 1;
 }
 
 .feature{
     padding: 1.5%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    opacity: 97%;
+    z-index: 1;
+    display: grid;
+    justify-items: center;
     align-items: center;
 }
 
 .content-title{
-    font-size: x-large;
+    font-size: 24px;
 }
 
 .content-text{
-    font-size: large;
+    margin-top: 2%;
+    font-size: 16px;
+    font-family: 'Coming Soon', cursive;
+    font-weight: 300;
 }
 
 .awards{
-    background-color: crimson;
+    background-color: var(--primaryBodyColor);
 }
 
 .award-container{
     width: 60%;
     display: grid;
+    background-color: firebrick;
     grid-template-columns: 50% 50%;
-    margin: 1%;
-    justify-items: center;
+    margin-bottom: 1%;
+    padding: 1% 0% 1% 0%;
+    justify-items: flex-start;
+    border-bottom-left-radius: 5em;
+    border-bottom-right-radius: 5em;
+    border-top-left-radius: 48%;
+    border-top-right-radius: 48%;
     align-items: center;
 }
 
 .award-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: flex-start;
     height: auto;
-    width: fit-content;
-    background-color: teal;
+    width: 100%;
     margin: 1%;
 }
 
+.award-item img{
+    height: 90%;
+    width: 90%;
+}
+
+.award-item img:hover{
+    cursor: pointer;
+    transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+    transform: translateY(-4%);
+    border-color: black;
+    border-style: solid;
+    border-width: medium;
+    box-shadow: 0em 0.8em 0.8em 0.05em rgba(20, 20, 20, 0.5);
+}
+
 .creators{
-    background-color: burlywood;
+    background-image: linear-gradient(to right, #255e9e,#255297, #1f329c, #380c30);
+}
+
+.content a{
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+.content a:hover{
+    color: cornflowerblue;
 }
 
 .soundtracks{
@@ -99,5 +219,36 @@ header{
 footer{
     height: auto;
     padding: 1%;
-    background-color: black;
+    z-index: 1;
+    background-color: var(--footerColor);
+}
+
+@media screen and (max-aspect-ratio: 5/4) {
+    .header-base{
+        height: 13vw;
+    }
+
+    .header-button{
+        font-size: 24px;
+        padding: 2.8% 4% 2.8% 4%;
+        margin-left: 3%;
+        border-radius: 1.8em;
+        margin: 2% 2.5% 2.5% 2%;
+    }
+
+    .hero .content-text{
+        font-size: 40px;
+    }
+
+    .content{
+        margin-top: 50vw;
+    }
+
+    .content-title{
+        font-size: 16px;
+    }
+
+    .content-text{
+        font-size:12px;
+    }
 }
