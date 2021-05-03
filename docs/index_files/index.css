@@ -132,6 +132,7 @@ header:hover{
     opacity: 97%;
     z-index: 1;
     display: grid;
+    grid-template-rows: auto 1fr;
     justify-items: center;
     align-items: center;
 }
@@ -213,7 +214,24 @@ header:hover{
 }
 
 .story{
-    background-color: navy;
+    height: 40vw;
+    background-image: url('res/web_red.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.story .content-text{
+    opacity: 0%;
+}
+
+.story:hover{
+    cursor: pointer;
+}
+
+.story:hover .content-text{
+    transition: 20s;
+    opacity: 100%;
 }
 
 footer{
