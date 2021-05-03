@@ -214,7 +214,6 @@ header:hover{
 }
 
 .story{
-    height: 40vw;
     background-image: url('res/web_red.jpg');
     background-size: cover;
     background-repeat: no-repeat;
