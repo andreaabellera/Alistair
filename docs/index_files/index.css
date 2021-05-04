@@ -8,10 +8,9 @@
     --footerColor: black;
     --primaryBodyColor: #93181a;
     --secondaryBodyColor: #1f329c;
-    /* --secondaryBodyColor: #255297; */
-    --tertiaryBodyColor: crimson;
-    --heroPicture: crimson;
-    --storyPicture: crimson;
+    --tertiaryBodyColor: rgb(31, 31, 75);
+    --heroPicture: url('res/web_blue.jpg');
+    --storyPicture: url('res/web_red.jpg');
 }
 
 html, body{
@@ -100,7 +99,7 @@ header:hover{
 }
 
 .hero{
-    background-image: url('res/web_blue.jpg');
+    background-image: var(--heroPicture);
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -212,11 +211,11 @@ header:hover{
 }
 
 .demo{
-    background-color: green;
+    background-color: var(--tertiaryBodyColor);
 }
 
 .story{
-    background-image: url('res/web_red.jpg');
+    background-image: var(--storyPicture);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
