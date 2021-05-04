@@ -123,13 +123,14 @@ header:hover{
 .content{
     margin-top: 20vw;
     padding: 2%;
-    opacity: 97%;
+    opacity: 95%;
     z-index: 1;
+    width: 100%;
 }
 
 .feature{
     padding: 1.5%;
-    opacity: 97%;
+    opacity: 95%;
     z-index: 1;
     width: 100%;
     display: grid;
@@ -208,6 +209,23 @@ header:hover{
 
 .soundtracks{
     background-color: black;
+}
+
+.soundtrack-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.soundtrack-array{
+    margin-top: 4%;
+    display: grid;
+    width: 45%;
+    grid-template-columns: 70% 30%;
+}
+
+audio{
+    justify-self: flex-end;
 }
 
 .demo{
@@ -383,5 +401,9 @@ footer{
 
     .content-text{
         font-size:12px;
+    }
+
+    .soundtrack-array{
+        width: 90%;
     }
 }
