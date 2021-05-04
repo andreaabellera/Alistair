@@ -21,4 +21,7 @@ The game is hosted live and can be played via browser on [itch.io](https://lenni
 - Composers: Marc Yu, Miles Acquaviva [(insta@link5669)](https://www.instagram.com/link5669/)
 
 ## Additional Credits
-Additional credits for music can be found in the credits section of the game and in Alistair_Music_Presentation.
+Additional credits for music can be found in the credits section of the game and in Alistair_Music_Presentation
+
+## Website
+A presentation website is being hosted live on [Github Pages](https://andreaabellera.github.io/Alistair/)
