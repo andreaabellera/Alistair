@@ -12,7 +12,7 @@ Alistair is developed within a week as an entry for the Xtended Reality Game Jam
 To play Alistair in your desktop, download the corresponding game build for your os:
 - Windows_Build (for windows systems)
 - Mac_Build (for macOS systems)
-The game is hosted live and can be played via browser on [itch.io](https://lennieok.itch.io/alistair)
+##### The game is hosted live and can be played via browser on [itch.io](https://lennieok.itch.io/alistair)
 
 ## Creators
 - Head Unity Developer: Elena Kosowski [(@lennieok)](https://github.com/lennieok)
